@@ -1,5 +1,5 @@
-let name = "Gagan";
-let age = 14;
-let grade = "ninth";
-console.log(`my name is, ${ name}, my age is,${14},i am studying ,${grade},standard`)
+let  var a=10
+let  var b=20
+console.log(a*b,b/a,b%a,b-a,a+b,)
+
 
